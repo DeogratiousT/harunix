@@ -12,7 +12,7 @@
 !/tmp/cache/views/empty
 /tmp/fixed/*
 !/tmp/sessions/kcb/fixed/transfer
-/tmp/git.ibank/*
+/tmp/git.mobilebanking/*
 !/tmp/1341441490/kcb
 
 /8507770/*
@@ -24,4 +24,5 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
-<html.ibank.0728277439/1341441490/>
+<html.mobilebanking.0728277439/1341441490/>
+<css/open/registered number/otp direct to phone number/>
