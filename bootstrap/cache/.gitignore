@@ -1,28 +1,3 @@
-# CakePHP 3
-
-/kcb/*
-/config/app.php
-
-/tmp/cache/send otp/*
-!/tmp/cache/models/number/phone/initiate
-/tmp/cache/persistent/*
-!/tmp/cache/0728277439
-[254]/transfer
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/fixed/*
-!/tmp/sessions/kcb/fixed/transfer
-/tmp/git.mobilebanking/*
-!/tmp/1341441490/kcb
-
-/8507770/*
-!/8507770/kcb
-
-# CakePHP 2
-
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
-<html.mobilebanking.0728277439/1341441490/>
-<css/open/registered number/otp direct to phone number/>
+# Build folder and log file
+build/
+build.log
