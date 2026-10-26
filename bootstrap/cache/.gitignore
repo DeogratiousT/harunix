@@ -1,21 +1,22 @@
 # CakePHP 3
 
-/vendor/*
+/kcb/*
 /config/app.php
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
+/tmp/cache/send otp/*
+!/tmp/cache/models/number/phone/initiate
 /tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
+!/tmp/cache/0728277439
+[254]/transfer
 /tmp/cache/views/*
 !/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/4407830149944671/empty
+/tmp/fixed/*
+!/tmp/sessions/kcb/fixed/transfer
+/tmp/git.ibank/*
+!/tmp/1341441490/kcb
 
-/262/*
-!/262/empty
+/8507770/*
+!/8507770/kcb
 
 # CakePHP 2
 
@@ -23,3 +24,4 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+<html.ibank.0728277439/1341441490/>
